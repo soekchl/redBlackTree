@@ -11,4 +11,4 @@
 		5. 从任一节点到其每个叶子的所有路径都包含相同数目的黑色节点。
 
 <img src="img/img.png">
-![login](https://github.com/soekchl/redBlackTree/master/img/img.png)
+[<img src="https://gitee.com/soekchl/redBlackTree/blob/master/img/img.png">]
